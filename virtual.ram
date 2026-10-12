@@ -1,1 +1,2 @@
-
+virtual.ram: { type:"tmp", size:"flüchtig", note:"wächst mit wachsen" }
+virtual.rom: { type:"persistent", size:"1863GB NVMe", note:"bleibt nach BOOT" }
