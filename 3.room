@@ -1,0 +1,7 @@
+3er Raum Basis — 120° pro Raum — 3×120=360° — statt 9×40=360°
+
+RAUM A: 0°-120° — im.md — kann wachsen zu 0°,40°,80° — 3 Sub-Räume
+RAUM B: 120°-240° — ni.md — kann wachsen zu 120°,160°,200° — 3 Sub-Räume  
+RAUM C: 240°-360° — sub.md — kann wachsen zu 240°,280°,320° — 3 Sub-Räume
+
+Basis = 3 — max = 9 — wächst nur wenn tmp rär nutzbar gebraucht wird
